@@ -1,0 +1,4 @@
+# Curso de Git
+Para inicializa un repositorio utilizamos
+<br>
+> git init
